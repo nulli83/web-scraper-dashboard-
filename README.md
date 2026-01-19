@@ -1,4 +1,4 @@
-# 🕷️ Web Scraper Dashboard
+#  Web Scraper Dashboard
 
 A real-time web scraping dashboard that pulls the latest tech stories from Hacker News and visualizes them with interactive charts. Built with Python and Streamlit.
 
